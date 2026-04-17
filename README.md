@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Installation](#installation)                                            
 - [Usage](#usage)                                                          
 - [Screenshots](#screenshots)
 - [API Documentation](#api-documentation)
