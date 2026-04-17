@@ -5,7 +5,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage)                                                          
 - [Screenshots](#screenshots)
 - [API Documentation](#api-documentation)
 - [Contributing](#contributing)
